@@ -6,6 +6,6 @@ for ($i = 0; $i < 5; $i++) {
   echo("Hello World<br/>");
 }
 
-echo("The end");
+echo("The end of the Hello World");
 
 ?>
